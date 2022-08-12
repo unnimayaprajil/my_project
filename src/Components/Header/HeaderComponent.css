@@ -1,0 +1,11 @@
+.navbar{
+    background-image: linear-gradient(#08085a, #3a8c3a);
+}
+.navbar-text{
+    color: white;
+    padding-right: 10px;
+}
+.navbar-brand{
+    color:white;
+
+}
